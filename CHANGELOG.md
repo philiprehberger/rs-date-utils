@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Add crate-level documentation with usage examples
+
 ## 0.1.0 (2026-03-19)
 
 - Initial release

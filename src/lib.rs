@@ -1,3 +1,16 @@
+//! Date and time utilities — business days, date ranges, holiday calendars, and formatting shortcuts.
+//!
+//! # Example
+//!
+//! ```rust
+//! use philiprehberger_date_utils::DateRange;
+//! use chrono::NaiveDate;
+//!
+//! let start = NaiveDate::from_ymd_opt(2026, 1, 1).unwrap();
+//! let end = NaiveDate::from_ymd_opt(2026, 1, 31).unwrap();
+//! let range = DateRange::new(start, end);
+//! ```
+
 use chrono::{Datelike, Duration, NaiveDate, Weekday};
 
 // ---------------------------------------------------------------------------
