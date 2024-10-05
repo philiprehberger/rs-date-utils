@@ -1,10 +1,14 @@
 # Changelog
 
+## 0.1.2 (2026-03-22)
+
+- Fix README and CHANGELOG compliance
+
 ## 0.1.1 (2026-03-17)
 
 - Add crate-level documentation with usage examples
 
-## 0.1.0 (2026-03-19)
+## 0.1.0 (2026-03-16)
 
 - Initial release
 - `HolidayCalendar` trait with `is_holiday()` and `holidays_in_year()`
