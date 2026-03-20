@@ -1,0 +1,16 @@
+[package]
+name = "philiprehberger-date-utils"
+version = "0.1.0"
+edition = "2021"
+authors = ["Philip Rehberger"]
+description = "Date and time utilities — business days, date ranges, holiday calendars, and formatting shortcuts"
+license = "MIT"
+repository = "https://github.com/philiprehberger/rs-date-utils"
+readme = "README.md"
+rust-version = "1.70"
+documentation = "https://docs.rs/philiprehberger-date-utils"
+keywords = ["date", "business-days", "calendar", "range", "holiday"]
+categories = ["date-and-time"]
+
+[dependencies]
+chrono = "0.4"
