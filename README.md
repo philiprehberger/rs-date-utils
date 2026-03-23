@@ -10,12 +10,10 @@ Date and time utilities — business days, date ranges, holiday calendars, and f
 
 ```toml
 [dependencies]
-philiprehberger-date-utils = "0.1.1"
+philiprehberger-date-utils = "0.1.2"
 ```
 
 ## Usage
-
-### Business Days
 
 ```rust
 use chrono::NaiveDate;
