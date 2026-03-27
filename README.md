@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/rs-date-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/rs-date-utils/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-date-utils.svg)](https://crates.io/crates/philiprehberger-date-utils)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-date-utils)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Date and time utilities — business days, date ranges, holiday calendars, and formatting shortcuts
 
